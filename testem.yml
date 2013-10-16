@@ -1,0 +1,2 @@
+framework: mocha
+test_page: app/testRunner.html

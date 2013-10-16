@@ -1,0 +1,11 @@
+{
+  "name": "bb-testing",
+  "jam": {
+    "packageDir": "app/scripts/vendor",
+    "baseUrl": "app",
+    "dependencies": {
+    	"backbone": null,
+    	"ristretto": null
+    }
+  }
+}

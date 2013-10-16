@@ -1,0 +1,9 @@
+{
+  "name": "chai-amd",
+  "version": "1.6.0",
+  "description": "Chai with AMD support",
+  "homepage": "http://chaijs.com/",
+  "jam": {
+    "main": "index.js"
+  }
+}
